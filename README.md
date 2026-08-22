@@ -6,5 +6,5 @@
 - 🐈‍⬛ git to build my projects on here :D
 ## 🟥 doing right now
 - 👨‍🎓 learning git, slowly.
-## 🔨shit im proud of
+## 🔨 shit im proud of
 - 👾[OSgamehub](https://github.com/cherribomb64/OSgameHub) -- a simple html hub, meant for making unblocked games sites.
